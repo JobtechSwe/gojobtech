@@ -36,3 +36,16 @@ home = [ "HTML", "RSS", "JSON"]
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "mine"
+
+
+  [[menu.shortcuts]]
+  name = "<i class='fab fa-github'></i> Github repo"
+  identifier = "ds"
+  url = "https://github.com/jobtechswe"
+  weight = 10
+
+  [[menu.shortcuts]]
+  name = "<i class='fas fa-bookmark'></i> Jobtechdev.se"
+  identifier = "hugodoc"
+  url = "https://www.jobtechdev.se/"
+  weight = 20
