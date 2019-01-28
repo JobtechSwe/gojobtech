@@ -1,8 +1,9 @@
-baseURL = "./cont/"
+baseURL = "/cont"
 languageCode = "en-us"
 title = "Jobtech Dev"
 theme = "hugo-theme-learn"
-relativeURLs="false"
+#relativeURLs="false"
+#canonifyURLs="true"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 

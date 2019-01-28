@@ -6,6 +6,7 @@ RUN hugo
 
 FROM bitnami/nginx
 COPY --from=builder /var/www/hugo/public /opt/bitnami/nginx/html/cont
+COPY --from=builder /var/www/hugo/thebeginning /opt/bitnami/nginx/html
 USER 1001
 ENTRYPOINT [ "/entrypoint.sh" ]
 CMD [ "/run.sh" ]
