@@ -1,5 +1,6 @@
 ---
 title: "Taxonomy"
+disableToc: true
 date: 2018-01-28T21:58:09+01:00
 ---
 
@@ -10,7 +11,7 @@ The other part is the skills and occupations used job ads. We are using text ana
 
 {{< figure src="/cont/Vardeforradskomponenter.jpg" title="Components" >}}
 ## Paradigm of the Future
-We are currently develop a new uniform structure of all taxonomy data. 
+We are currently develop a new uniform structure of all taxonomy data.
 
 ### Articles:
 * [SSYK and ESCO standard](https://jobtechdev.se/whitepapers/SSYKochESCO)

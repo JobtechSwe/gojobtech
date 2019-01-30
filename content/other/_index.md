@@ -1,18 +1,18 @@
 ---
 title: "Samples"
 date: 2018-01-28T21:58:09+01:00
-#anchor: "API"
-chapter: true
+disableToc: true
+chapter: false
 weight: 100
 ---
-# Samples
-<hr>
-### Learning by **sharing**
+All jobtech projects big or small are opensource:
 
-Read our examples and share yours
+- Widgets: Application made for you to integrate
+- Application: Stand-alone end-user applications
+- Tools: Utilities for developers
 
 ## Widgets
-
+Integrate services with minimum effort in your service.
 ### Jobskills Widget
 ---
 A POC for a jobskills widget that shows potential candidates from the Jobskills API based on metadata from the site the widget is placed.
@@ -79,7 +79,7 @@ Arbetsförmedlingen and Länsstyrelsen Stockholm invite you to participate in a 
 ### Post Job Ads
 
 ---
-A SDK written in Ruby to validate and send job ads, developed by JustArrived.se 
+A SDK written in Ruby to validate and send job ads, developed by JustArrived.se
 
 <https://github.com/buren/arbetsformedlingen>
-* 
+*

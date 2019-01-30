@@ -1,5 +1,6 @@
 ---
 title: "Jobs"
+disableToc: true
 date: 2019-01-19T20:06:16+01:00
 ---
 
@@ -16,5 +17,3 @@ The continues inprovment of the Common Language is done with help of JobTech Job
 ## Current API:s
 * [Open Jobs from Swedish Public Employment Service]({{< ref "api/platsbanken/_index.md" >}})
 * [Historical Job ads]({{< ref "api/historical/_index.md" >}})
-
-
