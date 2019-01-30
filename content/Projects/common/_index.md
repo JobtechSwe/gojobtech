@@ -11,9 +11,9 @@ The other part is the skills and occupations used job ads. We are using text ana
 
 {{< figure src="/cont/Vardeforradskomponenter.jpg" title="Components" >}}
 ## Paradigm of the Future
-We are currently develop a new uniform structure of all taxonomy data.
+We are currently developing a new uniform structure of all taxonomy data. 
 
-### Articles:
+### Articles
 * [SSYK and ESCO standard](https://jobtechdev.se/whitepapers/SSYKochESCO)
 * [History of Taxonomy](https://jobtechdev.se/whitepapers/Värdeförrådskomponentergenomåren)
 * [Updating the Taxonomy](https://jobtechdev.se/whitepapers/Uppdatering%20av%20värdeförrådskomponenter)
