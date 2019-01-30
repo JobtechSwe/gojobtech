@@ -3,29 +3,29 @@ title: "MyData"
 date: 2019-01-19T20:06:16+01:00
 ---
 
-## Bakgrund
-MyData är en rörelse som syftar till att individer själva ska ha kontroll på data om sig själv. Jobtech mydata utforskar ett koncept som åstadkommer det primärt för arbetsmarknaden. Målet är att se vad detta skapar för potentiella möjligheter för den svenska arbetsmarknaden. Därför har vi påbörjat ett experimenterande innovationsteam som vill testa hypotesen att det går att skapa en distribuerad och decentraliserad datalagring för information om individens CV-data och göra den tillgänglig för de aktörer som har intresse att läsa eller skriva i datat men med utgångspunkt att individen alltid har kontroll på informationen.
-## Syfte och mål
-### Värna individens rätt till sin data (MyData movement)
-Massiva datamängder som samlas i enskilda företag eller myndigheter skapar möjligheter att dessa kan se mönster i människors beteenden och skapa nya produkter och tjänster som skapar ett nytt värde. Datat kan även användas för andra syften, t ex för att övervaka eller påverka opinioner i politiska syften. Att kontrollera många individers data kan innebära en riskabelt stor maktkoncentration. För att "vaccinera oss" mot denna typ av masspåverkan vill vi därför nå en lösning där individens rätt till sin egen data är utgångspunkten och rent konkret flyttar tillbaka makten till individerna att enkelt agera mot maktkoncentration och informationsmonopol.
-### Samhällsbygge och innovationskraft
-Vårt andra mål handlar om att möjliggöra innovationskraft för myndigheter. Att bättre kunna samverka att kunna utveckla lika potenta digitala tjänster som privata startups. Privat och offentligt ska kunna samverka både i utveckling och med gemensam digital infrastruktur/standarder för ökad samhällsnytta. Genom att möjliggöra en “digital byråkrati”, dvs spårbarhet och standardiserad kommunikation kan nya mer transparenta och effektiva former av styrning etableras. På vägen handlar detta om konkurrenskraft för Sverige och EU, men i grunden handlar det framför allt om ökad samhällsnytta för hela mänskligheten. Världen är idag global och strömmar från alla världens hörn. Open Source är en global rörelse och har kraften att förbättra både för små och stora länder och organisationer.
+MyData aiming for individuals to have control over their own data. Jobtech MyData goal is a distributed and decentralized data storage for the labour market. Take CV data as an example: It should be accessible for those who have an interest in reading or writing in the data but on the basis that the individual always has control of the information. Massive data sets collected by companies and authorities creates possibility to see patterns in the behavior of people, and create new products and services to create a new value. The data can also be used for other purposes for example monitoring or affect opinions in politics. To control a lot of individual data could mean a risk.
 
-### Främja arbetsmarknaden.
-Förenkla och höja effektiviteten i karriärarbetet genom att katalysera ekosystemet kring jobtech. Nya och förbättrade tjänster för arbetssökande och arbetsgivare. Fri och effektiv rörlighet över landsgränser, minska kostnaden för arbetsgivare och enklare användarupplevelse för användaren.
+### Purpose
+- Protect the individual's right to his data
+- Empower the individual with control of his data
 
-## Metod
-Ett innovationsteam är framtaget som består av kompetens både inom programmering, UX, infrastruktur, kryptering/säkerhet och expertis från myndigheten. Innovationsteamet jobbar iterativt och skall uppnå högre och högre ställda mål/milstolpar. Första etappen är t ex att få alla systemkomponenter på plats men med väldigt begränsad funktionalitet. Därefter ökas komplexiteten och till slut finns det ett embryo till produkt som kan utvärderas.
+### Accelerate innovation
+Our second goal is to enable innovation. To be able to in a better way collaborate and develop as powerful digital services as private startups. The private and the public sector should be able to collaborate in both development and with common infrastructure/ standards for increasing the public benefit. By enabling a “digital bureaucracy”, i.e. traceability and standardized communication, new more transparent and effective forms of governance can be established. This is about competitiveness for Sweden and EU, but basically it is primary about increased social benefits for the entire humanity. Opens source is a global movement and has the power to improve, both for small and large countries and organizations. Simplify and increase the efficiency of career work by catalyzing the ecosystem around Jobtech.
+New and better services for jobseekers and employers. Free and efficient cross-border mobility, reducing the cost of employers and an easier user experience.
 
-## Transparens och samarbete
-Vi har som mål att vara 100% transparenta och lägger ut all kod och dokumentation här på Github. Meningen är att konsolidera kunskap och öka samarbetet med andra initiativ som samtidigt jobbar med samma tanke. Vi är väldigt glada för att få kontakt med dig och stöttar gärna med de lärdomar vi har och lär oss gärna av dina.
+### Transparence and collaboration
+Our goal is to be 100% transparence and we will put all code and documentation on Github. The meaning is to consolidate knowledge and increase collaboration with other initiatives working on the same thought. We would be very happy to get in contact with you and we will support you with our knowledge but also learn from yours.
 
-## Koden
+### The code
+By visualizing and practically show how ownership of your own data could work, it will become easier for others to take stand on the concept.
+We strive to reuse as much as possible for not inventing the wheel again. The project in influenced by mydata.org
 
-Genom att visualisera och praktiskt visa upp hur ägande av sin egen data skulle kunna fungera så blir det enklare för flera att ta ställning till konceptet.  Vår strävan att återanvända så mycket som möjligt för att inte återuppfinna hjulet. Projektet är influerat av [mydata.org](http://mydata.org)
+The architecture is divided into four subsystem:
 
-Projektet är indelat i 4 delsystem:
-- [mydata-app](https://github.com/JobtechSwe/mydata-app) : En app där individen hanterar sin data
-- [mydata-operator](https://github.com/JobtechSwe/mydata-operator) : En teknisk operatör som givet ett godkännande från individen hanterar kommunikationen mellan individen, hens data och en extern tjänst
-- [mydata-cv](https://github.com/JobtechSwe/mydata-cv) : En exempeltjänst som läser/skriver till individens mydata efter att ha fått behörighet att göra det (`Data Source` och `Data Sink`)
-- [mydata-pds](https://github.com/JobtechSwe/mydata-pds) : Säker datalagring av datat som bara individen har tillgång till. PDS står för Personal Data Storage.
+- [mydata-app](https://github.com/JobtechSwe/mydata-app): An app were the individuals handles their data.
+
+- [mydata-operator](https://github.com/JobtechSwe/mydata-operator): A technical operator who granted an approval from the individual, manages the communication between the individual, the data snd an external service.
+
+- [mydata-cv](https://github.com/JobtechSwe/mydata-cv): a sample servce that reads /writes to the individual’s data after being allowed to. (Data Source and Data Sink)
+
+- [mydata-pds](https://github.com/JobtechSwe/mydata-pds): secure data storage, only available for the individual. PDS stands for Personal Data Storage.
