@@ -7,7 +7,7 @@ We collect information about all jobpostings in Sweden. As a startpoint we use t
 The information about all jobs are used in Jobtech serach.
 
 We are continusly working on improving the information.
-{{< figure src="/jt webbjobtech_jobs.png" title="Components" >}}
+{{< figure src="/cont/jt webbjobtech_jobs.png" title="Components" >}}
 
 ##Current useage
 To show how this information can be used the application Jobscanner was created
