@@ -9,13 +9,18 @@ weight: 10
 
 *An open digital infrastructure that enables people to meet. All actors can easily contribute with their data and code - as well as take part of others.*
 
-In order to maximize the efficiency of matching and to stimulate the creation of more digital services, a common digital ecosystem is needed. One where all actors in the labour market share data and collaborate. The more actors who contribute to the ecosystem, private as well as from the public sector,  the better matching and more beneficial effects can be generated. Therefore, we would like to see more players in the labour market join the digital ecosystem, and work towards creating a community of interested parties to engage in the ecosystem. The three groups of participants in a ecosystem, infrastructure builders, developers/organisations , and end-users, have unique needs and motivations for participating in it. The Swedish Public Employment Service are a keyplayer as a infrastrukture builder trying to build a platform for all actors.
-
 {{< figure src="../../jobtech_platform.png" title="Jobtech vision" >}}
+
+## Roles in a ecosystem
+Infrastructure builders, developers/organisations, and end-users, have unique needs and motivations for participating in a ecosystem.
+
+### Better matching
+
+For infrastructure builders(The Swedish Public Employment Service acts as one), building a digital infrastructure increases the efficiency in matching and stimulates the creation of more digital services. All actors in the labour market can share data and collaborate. The more actors who contribute, private as well as from the public sector, the better matching. Therefore, we would like to see more players in the labour market join.
 
 ### Low barrier to entry
 
-For developers, platforms lower entry barriers by providing a shared foundation to use as a starting point for their own work. They also provide access to a prospective customer pool, which can find and transact with the app developers more easily through the platform than they could without it.
+For developers, a digital infrastructure lower entry barriers by providing a shared foundation to use as a starting point for their own work. They also provide access to a prospective customer pool, which can find and transact with the app developers more easily through the platform than they could without it.
 
 ```Components:
 
@@ -29,4 +34,4 @@ For developers, platforms lower entry barriers by providing a shared foundation 
 
 ### Variety of services for end-users
 
-For end-users, platforms can allow extreme levels of customization to their unique needs by enabling them to themselves mix-and-match apps that increase their personal utility of the platform.
+For end-users, a digital infrastructure can allow extreme levels of customization to their unique needs by enabling them to themselves mix-and-match apps that increase their personal utility of the platform.
