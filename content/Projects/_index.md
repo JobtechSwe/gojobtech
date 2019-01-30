@@ -7,10 +7,5 @@ weight: 50
 ---
 # Components
 <hr>
-<<<<<<< HEAD
-{{< figure src="/cont/Components.png" title="Core components in the ecosystem" >}}
-=======
-### **Focus** projects
 
-Join a JobTech project
->>>>>>> 20e6ce8fd2f1a1748b7a29f08fedc05103750f33
+{{< figure src="/cont/Components.png" title="Core components in the ecosystem" >}}
