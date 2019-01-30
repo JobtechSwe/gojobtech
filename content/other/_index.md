@@ -5,7 +5,7 @@ date: 2018-01-28T21:58:09+01:00
 chapter: true
 weight: 100
 ---
-# Good stuff
+# Samples
 <hr>
 ### Learning by **sharing**
 
@@ -13,7 +13,7 @@ Read our examples and share yours
 
 ## Widgets
 
-### Jobskills widget
+### Jobskills Widget
 ---
 A POC for a jobskills widget that shows potential candidates from the Jobskills API based on metadata from the site the widget is placed.
 
@@ -25,7 +25,7 @@ Showing the candidates by location
 
 <https://github.com/jobtechdev/vacancieswidget>
 
-### Jobwidget
+### Job Widget
 ---
 Idén med den här widgeten är att föreslå jobbmatchning utifrån de personuppgifter som redan finns tillgänglig i det sammanhang som widgeten visas i.
 
