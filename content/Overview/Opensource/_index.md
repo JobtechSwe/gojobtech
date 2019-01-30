@@ -1,5 +1,5 @@
 ---
-title: "Open Source"
+title: "Open by default"
 date: 2018-01-28T21:58:09+01:00
 #anchor: "API"
 weight: 20
@@ -7,7 +7,7 @@ weight: 20
 # Note: Toc is always disabled for chapter pages
 disableToc: "false"
 # If set, this will be used for the page's menu entry (instead of the `title` attribute)
-menuTitle: "Open by default"
+menuTitle: "Open by Default"
 # The title of the page in menu will be prefixed by this HTML content
 pre: ""
 # The title of the page in menu will be postfixed by this HTML content
@@ -29,7 +29,8 @@ The best way to reach there is to be transparent, open and accessible to anyone 
 
 In order to make this happen, we believe it’s time to embrace open source as a baseline strategy. Why reinvent the wheel? We want you to be able to focus on creating the best solutions to the real problems instead. Ease of integration and migration is an easy argument, as is the diversity of ideas created around community-shared challenges. The list can be made very long.
 
-[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-
 ### Where to start and how to contribute?
 We want - and need - input from the community on this one! How do we create the best possible platform and community in order to make our vision come true? What do you want, and need?
+
+### Want to get in touch?
+contact@jobtechdev.se
