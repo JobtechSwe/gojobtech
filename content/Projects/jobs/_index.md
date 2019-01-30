@@ -11,7 +11,7 @@ We are continusly working on improving the information.
 ## Current useage
 The information about all jobs are used in Jobtech Serach.
 To show how this information can be used the application Jobscanner was created
-The continues inprovment of the Common Language is done with help of Jobtech Jobs.
+The continues inprovment of the Common Language is done with help of JobTech Jobs.
 
 ## Current API:s
 * [Open Jobs from Swedish Public Employment Service]({{< ref "api/platsbanken/_index.md" >}})
