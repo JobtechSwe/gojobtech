@@ -1,4 +1,4 @@
-# Hugo Jobtech
+# Hugo JobTech
 
 ## Installation
 more to come...
