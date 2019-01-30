@@ -9,7 +9,7 @@ We are continusly working on improving the information.
 {{< figure src="/cont/jt webbjobtech_jobs.png" title="JobTech Jobs" >}}
 
 ## Current useage
-The information about all jobs are used in Jobtech Serach.
+The information about all jobs are used in JobTech Serach.
 To show how this information can be used the application Jobscanner was created
 The continues inprovment of the Common Language is done with help of JobTech Jobs.
 

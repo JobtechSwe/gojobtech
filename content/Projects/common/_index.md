@@ -17,6 +17,6 @@ We are currently develop a new uniform structure of all taxonomy data.
 * [History of Taxonomy](https://jobtechdev.se/whitepapers/Värdeförrådskomponentergenomåren)
 * [Updating the Taxonomy](https://jobtechdev.se/whitepapers/Uppdatering%20av%20värdeförrådskomponenter)
 
-### Current API:s
+### Current API's
 * [Taxonomi with SSYK]({{< ref "api/taxonomy/_index.md" >}})
 * [Ontology]({{< ref "api/Ontology/_index.md" >}})

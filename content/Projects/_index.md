@@ -9,4 +9,4 @@ weight: 50
 <hr>
 ### **Focus** projects
 
-Join a jobtech project
+Join a JobTech project

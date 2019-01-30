@@ -32,4 +32,4 @@ curl api.platsbankenads
 {{< /highlight >}}
 
 
-Learn more about the Platsbanken API or start use the APi right away
+Learn more about the Platsbanken API or start use the API right away
