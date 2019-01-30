@@ -21,7 +21,7 @@ LastModifierDisplayName: ""
 # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 LastModifierEmail: ""
 ---
-# API:s
+# API's
 <hr>
 ### Open resources for developers
 
