@@ -10,3 +10,10 @@ weight: 100
 ### Learning by **sharing**
 
 Read our examples and share yours
+
+## Widgets
+
+### Jobskills widget
+A POC for a jobskills widget that shows potential candidates from the Jobskills API based on metadata from the site the widget is placed.
+
+<https://github.com/Jobskills/jobskills-widget>
