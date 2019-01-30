@@ -8,4 +8,4 @@ weight: 2
 <hr>
 ### Jobtechdev is a **toolbox** for developers
 
-Every dataset and api found here are "Free as in Beer"
+Every dataset and api found here are "Free as in Beer" 

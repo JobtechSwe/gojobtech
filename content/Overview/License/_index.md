@@ -7,7 +7,7 @@ weight: 40
 # Note: Toc is always disabled for chapter pages
 disableToc: "false"
 # If set, this will be used for the page's menu entry (instead of the `title` attribute)
-menuTitle: "Legal"
+menuTitle: "License"
 # The title of the page in menu will be prefixed by this HTML content
 pre: ""
 # The title of the page in menu will be postfixed by this HTML content
@@ -31,5 +31,9 @@ A permissive free software licence is a free software licence for a copyrighted 
 
 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
+You can do what you like with the software, as long as you include the required notices. This permissive license contains a patent license from the contributors of the code.
+
 ### License for data
-CC0
+[Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+
+Creative Commons CC0 licence means that the data is free to use, modify and share without any restriction. This is the default policy if nothing else is explicitly declared.
