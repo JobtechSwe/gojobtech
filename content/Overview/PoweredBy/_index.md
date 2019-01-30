@@ -23,10 +23,5 @@ LastModifierEmail: ""
 ---
 This site is powered and financed by The Swedish Public Employment Service (Arbetsförmedlingen). The goal is to serve the labour market by creating a open digital infrastructure.
 ## Definition
-<<<<<<< HEAD
 **Jobtech** (job technology)
 : is a collective term for technical innovation in the labour market sector. Jobtech is characterized by collaboration between several actors in the labour market arena. The sharing of common resources such as data provides better prerequisites to create and offer better end services
-=======
-JobTech
-JobTech (job technology) is a collective term for technical innovation in the labour market sector. JobTech is characterized by collaboration between several actors in the labour market arena. The sharing of common resources such as data provides better prerequisites to create and offer better end services
->>>>>>> 20e6ce8fd2f1a1748b7a29f08fedc05103750f33

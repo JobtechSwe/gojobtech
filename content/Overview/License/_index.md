@@ -7,7 +7,7 @@ weight: 40
 # Note: Toc is always disabled for chapter pages
 disableToc: "false"
 # If set, this will be used for the page's menu entry (instead of the `title` attribute)
-menuTitle: "Legal"
+menuTitle: "License"
 # The title of the page in menu will be prefixed by this HTML content
 pre: ""
 # The title of the page in menu will be postfixed by this HTML content
