@@ -8,7 +8,7 @@ Jobtech taxonomy consists of two main parts. One is the structured standardized 
 
 The other part is the skills and occupations used job ads. We are using text analysis of million of ads to continously improve the common language.
 
-{{< figure src="/Vardeforradskomponenter.jpg" title="Components" >}}
+{{< figure src="/cont/Vardeforradskomponenter.jpg" title="Components" >}}
 
 We are currently develop a new uniform structure of all taxonomy data. 
 
