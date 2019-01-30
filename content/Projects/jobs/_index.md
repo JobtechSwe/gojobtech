@@ -4,16 +4,25 @@ disableToc: true
 date: 2019-01-19T20:06:16+01:00
 ---
 
-We collect information about all jobpostings in Sweden. As a startpoint we use the information about jobs from the Swedish Public Emplyment Service service Platsbanken thats approximate 35% of all jobpostings.  To get information about the rest we cooperate with the Lund based company Auranest. We scan 285 diffetent job sites to get information about 90% of all jobs.
+Jobtech jobs collect and provide information about all job postings in Sweden by two methods:
 
-We are continusly working on improving the information.
+- **Open data** - the Swedish Public Employment Service deliver approximate 35% of all jobpostings.
+- **Aggregation** - Auranest scan 285 different job sites to get meta-information about 90% of all jobs.
+
+{{% notice info %}}
+Jobtech jobs is a cooperation project with the Lund based company Auranest.
+{{% /notice %}}
+
 {{< figure src="/cont/jt webbjobtech_jobs.png" title="JobTech Jobs" >}}
 
-## Current useage
-The information about all jobs are used in JobTech Serach.
-To show how this information can be used the application Jobscanner was created
-The continues inprovment of the Common Language is done with help of JobTech Jobs.
+## Usage
+The information about all jobs are used in [Jobtech Search]({{< ref "projects/search/_index.md" >}}).
+To show how this information can be used the application [Jobscanner]({{< ref "other/_index.md" >}}) was created.
+The continues improvement of the [Jobtech Taxonomy]({{< ref "projects/common/_index.md" >}}) is done with help of JobTech Jobs.
 
 ## Current API:s
-* [Open Jobs from Swedish Public Employment Service]({{< ref "api/platsbanken/_index.md" >}})
+* [Open Jobs]({{< ref "api/platsbanken/_index.md" >}}) from Swedish Public Employment Service
 * [Historical Job ads]({{< ref "api/historical/_index.md" >}})
+
+## Coming API
+* Open Jobs aggregated from all job posting sites
