@@ -9,10 +9,10 @@ The information about all jobs are used in Jobtech serach.
 We are continusly working on improving the information.
 {{< figure src="/cont/jt webbjobtech_jobs.png" title="Components" >}}
 
-##Current useage
+## Current useage
 To show how this information can be used the application Jobscanner was created
 The continues inprovment of the Common Language is done with help of Jobtech Jobs.
 
-##Current API:s
+## Current API:s
 * [Job ads from Swedish Public Employment Service]({{< ref "api/platsbanken/_index.md" >}})
 * [Historical Job ads]({{< ref "api/historical/_index.md" >}})
