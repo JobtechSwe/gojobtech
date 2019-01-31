@@ -7,16 +7,17 @@ disableToc: true
 weight: 10
 ---
 
-*An open digital infrastructure that enables people to meet. All actors can easily contribute with their data and code - as well as take part of others.*
+*An open digital infrastructure that enables people to meet. All actors can easily contribute with their data and code - as well as take part of others'.*
 
-{{< figure src="../../jobtech_platform.png" title="Jobtech vision" >}}
+{{< figure src="../../jobtech_platform.png" title="JobTech vision" >}}
 
 ## Roles in a ecosystem
 Infrastructure builders, developers/organisations, and end-users, have unique needs and motivations for participating in a ecosystem.
 
 ### Better matching
 
-For infrastructure builders(The Swedish Public Employment Service acts as one), building a digital infrastructure increases the efficiency in matching and stimulates the creation of more digital services. All actors in the labour market can share data and collaborate. The more actors who contribute, private as well as from the public sector, the better matching. Therefore, we would like to see more players in the labour market join.
+For infrastructure builders (The Swedish Public Employment Service acts as one), building a digital infrastructure increases the efficiency in matching and stimulates the creation of more digital services.  
+All actors in the labour market can share data and collaborate. The more actors who contribute, private as well as from the public sector, the better matching. Therefore, we would like to see more players in the labour market join.
 
 ### Low barrier to entry
 

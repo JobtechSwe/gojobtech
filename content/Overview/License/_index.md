@@ -21,7 +21,7 @@ LastModifierDisplayName: ""
 # Email of this page modifier. If set with LastModifierDisplayName, it will be displayed in the footer
 LastModifierEmail: ""
 ---
-We think reusing and sharing assets is a catalyst for community, innovation and acceleration of Sweden's democratic value-system, in all its forms. License
+We think reusing and sharing assets is a catalyst for community, innovation and acceleration of Sweden's democratic value-system, in all its forms.
 
 ### License for code
 

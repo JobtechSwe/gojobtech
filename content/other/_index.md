@@ -6,9 +6,9 @@ chapter: false
 weight: 100
 section: false
 ---
-All jobtech projects big or small are opensource:
+All JobTech projects -big or small -are open source:
 
-- **Widgets:** Application made for you to integrate
+- **Widgets:** Applications made for you to integrate
 - **Application:** Stand-alone end-user applications
 - **Tools:** Utilities for developers
 
@@ -16,7 +16,7 @@ All jobtech projects big or small are opensource:
 Integrate services with minimum effort in your service.
 ### Jobskills Widget
 ---
-A POC for a jobskills widget that shows potential candidates from the Jobskills API based on metadata from the site the widget is placed.
+A PoC for a job skills widget that shows potential candidates from the Jobskills API based from the site in which the widget is placed.
 
 <https://github.com/Jobskills/jobskills-widget>
 
@@ -32,7 +32,7 @@ Showing the candidates by location
 
 #### Job Widget
 ---
-Idén med den här widgeten är att föreslå jobbmatchning utifrån de personuppgifter som redan finns tillgänglig i det sammanhang som widgeten visas i.
+This widget suggests jobs based on the personal data already avaliable in the context in which the widget is placed.
 
 <https://github.com/JobtechSwe/jobwidget>
 
@@ -55,7 +55,7 @@ Data Universe makes your data accessible and understandable by enabling dynamic 
 
 
 
-#### Historic Data Analysis
+#### Historical Data analysis
 
 ---
 Repository for the statistics API and an example app for the dataset located at <http://jobtechdev.se/assets/historical-job-postings>.

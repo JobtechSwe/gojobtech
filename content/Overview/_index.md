@@ -6,6 +6,6 @@ weight: 2
 ---
 # Introduction
 <hr>
-### Jobtechdev is a **toolbox** for developers
+### JobTech dev is a **toolbox** for developers
 
-Every dataset and api found here are "Free as in Beer" 
+Every dataset and api found here is "Free as in Beer" 
