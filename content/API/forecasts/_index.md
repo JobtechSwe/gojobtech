@@ -1,6 +1,7 @@
 ---
 title: "Occupation forecast"
 disableToc: true
+menuTitle: "Occupations - Forecasts"
 date: 2019-01-19T20:06:16+01:00
 ---
 

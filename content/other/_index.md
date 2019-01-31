@@ -8,9 +8,9 @@ section: false
 ---
 All jobtech projects big or small are opensource:
 
-- Widgets: Application made for you to integrate
-- Application: Stand-alone end-user applications
-- Tools: Utilities for developers
+- **Widgets:** Application made for you to integrate
+- **Application:** Stand-alone end-user applications
+- **Tools:** Utilities for developers
 
 ## Widgets
 Integrate services with minimum effort in your service.
