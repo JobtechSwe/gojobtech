@@ -16,3 +16,8 @@ What does your competences relates to?
 The first version of the Job market ontology consists of a limited set of competences. Here you can explore them and see how they relates to each other.
 
 The state of the ontology is beta and it is changing to continuously get improved everyday.
+
+## Endpoint
+```
+http://ontologi.arbetsformedlingen.se/ontology/v1/?url=swagger.json
+```
