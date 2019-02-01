@@ -16,3 +16,4 @@ You need to use the language code 502 (Swedish) to get the results of the reques
 ```
 http://api.arbetsformedlingen.se/taxonomi/v0/TaxonomiService.asmx?
 ```
+[Taxonomy webservice](http://api.arbetsformedlingen.se/taxonomi/v0/TaxonomiService.asmx?)
