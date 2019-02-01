@@ -34,3 +34,5 @@ curl api.platsbankenads
 
 
 Learn more about the Platsbanken API or start use the API right away
+
+[API Open Jobs (Platsbanken)](https://jobtechdev.se/swagger/index.html)
