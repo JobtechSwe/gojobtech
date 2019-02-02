@@ -24,7 +24,7 @@ A PoC for a job skills widget that shows potential candidates from the Jobskills
 
 #### Vacancies Widget
 ---
-Showing the candidates by location
+Showing the candidates by location.
 
 <https://github.com/jobtechdev/vacancieswidget>
 
@@ -42,6 +42,8 @@ This widget suggests jobs based on the personal data already avaliable in the co
 
 #### aJob
 ---
+This is a prototype of a dialog based user interface that helps to find the a collection of sutable services. 
+
 <https://jobby.info/>
 
 
@@ -73,7 +75,7 @@ JobTech Store intends to gather and present thousands of digital labour market s
 #### JobScanner
 
 ---
-The JobScanner shows the potential and power of collecting all the recruitment needs of the labour market in one place
+The JobScanner shows the potential and power of collecting all the recruitment needs of the labour market in one place.
 
 <https://github.com/MagnumOpuses/JobScanning>
 
@@ -83,14 +85,13 @@ The JobScanner shows the potential and power of collecting all the recruitment n
 #### GIG API
 
 ---
-Arbetsförmedlingen and Länsstyrelsen Stockholm invite you to participate in a pilot to supply gig jobs! Apply or show your interest by clicking on the link below…
+Arbetsförmedlingen and Länsstyrelsen Stockholm invite you to participate in a pilot to supply gig jobs! Apply or show your interest by clicking on the link below.
 
 <https://github.com/JobtechSwe/gig-api>
 
 #### Post Job Ads
 
 ---
-A SDK written in Ruby to validate and send job ads, developed by JustArrived.se
+A SDK written in Ruby to validate and send job ads, developed by JustArrived.se.
 
 <https://github.com/buren/arbetsformedlingen>
-*
