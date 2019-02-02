@@ -39,7 +39,7 @@ Source code:
 <a name="vacancies"></a>
 #### Widget - Vacancies
 
-Showing the candidates by location.
+*Showing the candidates by location.*
 
 Source code:
 <https://github.com/jobtechdev/vacancieswidget>
