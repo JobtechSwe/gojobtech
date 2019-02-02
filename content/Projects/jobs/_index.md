@@ -13,7 +13,7 @@ JobTech jobs collect and provide information about all job postings in Sweden by
 JobTech jobs is a cooperation project with the Lund based company Auranest.
 {{% /notice %}}
 
-{{< figure src="/cont/jt webbjobtech_jobs.png" title="JobTech Jobs" >}}
+{{< figure src="/cont/jt webbjobtech_jobs.png" title="JobTech Jobs" height="90%" width="90%">}}
 ## Paradigm of the Future
 
 ## Usage
@@ -25,7 +25,7 @@ The continues improvement of the [Jobtech Taxonomy]({{< ref "projects/common/_in
 * [Open Jobs]({{< ref "api/platsbanken/_index.md" >}}) from Swedish Public Employment Service
 * [Historical Job ads]({{< ref "api/historical/_index.md" >}})
 
-## Coming API
+### Coming API
 * Open Jobs aggregated from all job posting sites
 
 
