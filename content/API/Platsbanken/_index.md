@@ -3,7 +3,7 @@ title: "Open Jobs"
 date: 2018-01-28T21:58:09+01:00
 disableToc: true
 menuTitle: "Jobs - Current Jobs Online"
-weight: 60
+weight: 25
 ---
 
 The Open Job API contains all current job ads from Swedish Public Employment Service. Somewhere around 100000 job ads, about 3000 new ads are submitted daily by employers, 5 million accesses to the job posting database daily.

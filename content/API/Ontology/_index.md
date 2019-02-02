@@ -2,6 +2,7 @@
 title: "Job Market Ontology"
 menuTitle: "Occupations - Ontology"
 disableToc: true
+weight: 32
 date: 2019-01-19T20:06:16+01:00
 ---
 
