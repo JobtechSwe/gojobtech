@@ -2,6 +2,7 @@
 title: "Assessing Work Ability"
 menuTitle: "Occupations - Work Ability"
 disableToc: true
+weight: 34
 date: 2019-01-19T20:06:16+01:00
 ---
 
